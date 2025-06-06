@@ -16,7 +16,7 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KravcovAlexander/telegram-forwarder-bot
    cd user_bot
    ```
 2. Установите необходимые зависимости:
